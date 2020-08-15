@@ -2,15 +2,9 @@
   "motorista": [
     {
       "id": 1,
-      "name": "Renato Valentim",
-      "cpf": "08200732452",
+      "name": "USUARIO ADMINISTRADOR",
+      "cpf": "11111111111",
       "vehicle": "ABC1234"
-    },
-    {
-      "id": 2,
-      "name": "Adriano Albuquerque",
-      "cpf": "05483661443",
-      "vehicle": "DEF5678"
     }
   ],
   "viagens": [
