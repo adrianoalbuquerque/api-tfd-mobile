@@ -10,7 +10,7 @@
   "viagens": [
     {
       "id": 1,
-      "dia": "2020-08-25",
+      "dia": "2020-08-30",
       "horario": "06:00",
       "passageiros": [
         {
@@ -52,14 +52,14 @@
           "paciente": "Ana da Silva",
           "acompanhante": "Joana da Conceição",
           "unidade": "Casa de saúde Maria da Paz",
-          "status": false,
+          "status": true,
           "id": 2
         },
         {
           "paciente": "João Soares",
           "acompanhante": "Igor Soares",
           "unidade": "Casa de saúde Maria da Paz",
-          "status": false,
+          "status": true,
           "id": 3
         }
       ]
@@ -117,6 +117,27 @@
           "unidade": "Casa de saúde Maria da Paz",
           "status": false,
           "id": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "dia": "2020-08-28",
+      "horario": "06:00",
+      "passageiros": [
+        {
+          "paciente": "Fabiano da Conceição",
+          "acompanhante": "Geraldo  da Conceição",
+          "unidade": "Casa de saúde Maria da Paz",
+          "status": true,
+          "id": 1
+        },
+        {
+          "paciente": "Márcio José da Silva",
+          "acompanhante": "Geraldo da Silva",
+          "unidade": "Casa de saúde Maria da Paz",
+          "status": false,
+          "id": 2
         }
       ]
     }
